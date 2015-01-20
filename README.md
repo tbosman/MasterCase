@@ -1,6 +1,8 @@
 # MasterCase
 
+Sample output 
 
+```
 Destinations: 
 MUC daily demand: 800
 BUD daily demand: 400
@@ -78,5 +80,5 @@ Plane 9 | cap:148 | % time operation:0.8092592592592592
 Plane 10 | cap:148 | % time operation:0.8574074074074074
 Plane 11 | cap:148 | % time operation:0.6888888888888889
 Plane 12 | cap:148 | % time operation:0.7351851851851852
-
+```
 
