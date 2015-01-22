@@ -4,7 +4,7 @@ import mastercase.Assumptions;
 
 public class Destination {
 	
-	final int id; 
+	public final int id; 
 	public final String code; 
 	final int flightTime; //in minutes
 	final int distance;

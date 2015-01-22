@@ -8,11 +8,11 @@ public class ScheduledCycle {
 
 	static final AtomicLong NEXT_ID = new AtomicLong(1); 
 	
-	final long id = NEXT_ID.getAndIncrement();
-	Destination destination; 
-	int departureTime; 
-	int ticketPrice; 
-	int demand;
+	final public long id = NEXT_ID.getAndIncrement();
+	final public Destination destination; 
+	final public int departureTime; 
+	final public int ticketPrice; 
+	final public int demand;
 	/**
 	 * @param destination
 	 * @param departureTime
